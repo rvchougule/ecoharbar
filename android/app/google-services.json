@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "54170640784",
+    "firebase_url": "https://waste-management-app-9fbf8-default-rtdb.firebaseio.com",
+    "project_id": "waste-management-app-9fbf8",
+    "storage_bucket": "waste-management-app-9fbf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54170640784:android:1218712a18ade3a5b89315",
+        "android_client_info": {
+          "package_name": "com.example.waste_management_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54170640784-rbpq6v01jn0be6b7ohcc01j3c8ncqnj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.waste_managemet_app",
+            "certificate_hash": "1b3c3baa0bf599bdf870925f7412eef3520535a9"
+          }
+        },
+        {
+          "client_id": "54170640784-g7ev2nga5tu916di5hng5pp3pe3p9rc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWEq-A-g6uOj4IrwPAgKv3dCg43oidHEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54170640784-g7ev2nga5tu916di5hng5pp3pe3p9rc1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "54170640784-6v6tt4phmtf2e3jkrd3mhi2u720i76hc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wasteManagemetApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

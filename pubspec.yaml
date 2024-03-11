@@ -1,0 +1,57 @@
+name: waste_managemet_app
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.0.6 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  #firebase
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.16.0
+  get: ^4.6.6
+  cloud_firestore: ^4.15.4
+  readsms: ^0.0.2+2
+  permission_handler: ^11.3.0
+  latlong2: ^0.9.0
+  latlng: ^2.0.7
+  flutter_map_cancellable_tile_provider: ^2.0.0
+  google_maps_flutter: ^2.5.3
+  geolocator: ^11.0.0
+  http: ^1.2.0
+  flutter_polyline_points: ^2.0.0
+  # new
+  firebase_database: ^10.1.0
+  firebase_storage: ^11.0.15
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  # assets:
+  #   - images/a_dot_burr.jpeg
+  #   - images/a_dot_ham.jpeg
+  assets:
+    - assets\assets\lading_page\arrowback-26q.png
+    - assets\assets\lading_page\Landing Logo.jpeg
+    - assets\assets\lading_page\waste 1.jpeg
+    - assets\assets\lading_page\waste 2.jpeg
+    - assets\assets\lading_page\waste 3.jpeg
+    - assets\assets\lading_page\waste 4.jpeg
+    - assets\assets\lading_page\waste 5.jpeg
+    - assets\assets\lading_page\waste 6.jpeg
+    - assets\assets\lading_page\waste 7.jpeg
+    - assets\assets\lading_page\waste 8.jpeg
+    - assets\assets\Login\Login Style.jpg
+    - assets\assets\Email\email_verify.jpeg
+    - assets\assets\Email\Email_1.jpg
+    - assets\assets\Forgot Pass\forgot pass.jpg
